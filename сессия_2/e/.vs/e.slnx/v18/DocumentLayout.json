@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deb29\\source\\repos\\e\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|solutionrelative:e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|solutionrelative:e\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\batchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|solutionrelative:e\\controllers\\batchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|solutionrelative:e\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|solutionrelative:e\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\models\\allmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|solutionrelative:e\\models\\allmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|solutionrelative:e\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D99789-984C-449B-87CE-20A2DFECFAE3}|e\\e.csproj|solutionrelative:e\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\appsettings.json",
+              "RelativeDocumentMoniker": "e\\appsettings.json",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\appsettings.json*",
+              "RelativeToolTip": "e\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-07T10:34:02.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QualityController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\QualityController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\QualityController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\QualityController.cs",
+              "RelativeToolTip": "e\\Controllers\\QualityController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAAMUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:28:24.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "e\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:03:40.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllModels.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\AllModels.cs",
+              "RelativeDocumentMoniker": "e\\Models\\AllModels.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\AllModels.cs",
+              "RelativeToolTip": "e\\Models\\AllModels.cs",
+              "ViewState": "AgIAAIMBAAAAAAAAAAAYwJkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T09:59:12.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "e\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\WeatherForecast.cs",
+              "RelativeToolTip": "e\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T08:03:04.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BatchesController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\BatchesController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\BatchesController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\BatchesController.cs",
+              "RelativeToolTip": "e\\Controllers\\BatchesController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T08:08:03.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "e\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAkwLMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T08:07:35.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Program.cs",
+              "RelativeDocumentMoniker": "e\\Program.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Program.cs",
+              "RelativeToolTip": "e\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwEwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T08:02:22.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
