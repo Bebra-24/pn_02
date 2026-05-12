@@ -1,0 +1,622 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deb29\\source\\repos\\e\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\productionorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\productionorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\batchstepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\batchstepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\batchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\batchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\models\\quality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\models\\quality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\models\\techcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\models\\techcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\rawmaterialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\rawmaterialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\deviationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\deviationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\stepparameterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\stepparameterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\techcardstepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\techcardstepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\techcardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\techcardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\recipecomponentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\recipecomponentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\models\\allmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\models\\allmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|c:\\users\\deb29\\source\\repos\\e\\e\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27D53082-6F5E-25CF-2B62-7A5FDACCBC71}|e\\e.csproj|solutionrelative:e\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Users\\deb29\\source\\repos\\e\\agrocontrolclient\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Users\\deb29\\source\\repos\\e\\agrocontrolclient\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|c:\\users\\deb29\\source\\repos\\e\\agrocontrolclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Users\\deb29\\source\\repos\\e\\agrocontrolclient\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Users\\deb29\\source\\repos\\e\\agrocontrolclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AgroControlClient||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Users\\deb29\\source\\repos\\e\\agrocontrolclient\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Users\\deb29\\source\\repos\\e\\agrocontrolclient\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Users\\deb29\\source\\repos\\e\\agrocontrolclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|C:\\Users\\deb29\\source\\repos\\e\\agrocontrolclient\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28876ADE-317A-4EDF-A202-2638F6C2A1A8}|AgroControlClient\\AgroControlClient.csproj|solutionrelative:agrocontrolclient\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 320,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RawMaterialsController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\RawMaterialsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\RawMaterialsController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\RawMaterialsController.cs",
+              "RelativeToolTip": "e\\Controllers\\RawMaterialsController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:59:34.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "e\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:59:11.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeviationsController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\DeviationsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\DeviationsController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\DeviationsController.cs",
+              "RelativeToolTip": "e\\Controllers\\DeviationsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:58:46.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BatchStepsController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\BatchStepsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\BatchStepsController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\BatchStepsController.cs",
+              "RelativeToolTip": "e\\Controllers\\BatchStepsController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAqwLYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:57:34.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductionOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\ProductionOrdersController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\ProductionOrdersController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\ProductionOrdersController.cs",
+              "RelativeToolTip": "e\\Controllers\\ProductionOrdersController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:56:35.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StepParametersController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\StepParametersController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\StepParametersController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\StepParametersController.cs",
+              "RelativeToolTip": "e\\Controllers\\StepParametersController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:56:17.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TechCardStepsController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\TechCardStepsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\TechCardStepsController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\TechCardStepsController.cs",
+              "RelativeToolTip": "e\\Controllers\\TechCardStepsController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAswIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:55:58.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TechCardsController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\TechCardsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\TechCardsController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\TechCardsController.cs",
+              "RelativeToolTip": "e\\Controllers\\TechCardsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAwwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:55:28.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RecipeComponentsController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\RecipeComponentsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\RecipeComponentsController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\RecipeComponentsController.cs",
+              "RelativeToolTip": "e\\Controllers\\RecipeComponentsController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:55:06.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Quality.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\Quality.cs",
+              "RelativeDocumentMoniker": "e\\Models\\Quality.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\Quality.cs",
+              "RelativeToolTip": "e\\Models\\Quality.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA1wGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:53:38.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TechCard.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\TechCard.cs",
+              "RelativeDocumentMoniker": "e\\Models\\TechCard.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\TechCard.cs",
+              "RelativeToolTip": "e\\Models\\TechCard.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA1wFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:53:06.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "e\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\Product.cs",
+              "RelativeToolTip": "e\\Models\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:38:12.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "e\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "e\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:34:30.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\Batch.cs",
+              "RelativeDocumentMoniker": "e\\Models\\Batch.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\Batch.cs",
+              "RelativeToolTip": "e\\Models\\Batch.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAYwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:34:14.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "e\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\Recipe.cs",
+              "RelativeToolTip": "e\\Models\\Recipe.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:33:57.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\User.cs",
+              "RelativeDocumentMoniker": "e\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\User.cs",
+              "RelativeToolTip": "e\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:33:40.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\appsettings.json",
+              "RelativeDocumentMoniker": "e\\appsettings.json",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\appsettings.json",
+              "RelativeToolTip": "e\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T12:28:34.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QualityController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\QualityController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\QualityController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\QualityController.cs",
+              "RelativeToolTip": "e\\Controllers\\QualityController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAswKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:23:41.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BatchesController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\BatchesController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\BatchesController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\BatchesController.cs",
+              "RelativeToolTip": "e\\Controllers\\BatchesController.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAqwMQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:09:42.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "e\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAcwFcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:09:26.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "e\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAIwKsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:07:40.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AllModels.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\AllModels.cs",
+              "RelativeDocumentMoniker": "e\\Models\\AllModels.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Models\\AllModels.cs",
+              "RelativeToolTip": "e\\Models\\AllModels.cs",
+              "ViewState": "AgIAAB8CAAAAAAAAAAAYwDsCAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:04:39.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RecipesController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\RecipesController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\RecipesController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\RecipesController.cs",
+              "RelativeToolTip": "e\\Controllers\\RecipesController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwv28AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:03:02.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "e\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "e\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:02:20.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "e\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\WeatherForecast.cs",
+              "RelativeToolTip": "e\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:54:11.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\e\\Program.cs",
+              "RelativeDocumentMoniker": "e\\Program.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\e\\Program.cs",
+              "RelativeToolTip": "e\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv1MAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:53:58.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AgroControlClient",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\AgroControlClient.csproj",
+              "RelativeDocumentMoniker": "AgroControlClient\\AgroControlClient.csproj",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\AgroControlClient.csproj",
+              "RelativeToolTip": "AgroControlClient\\AgroControlClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-12T10:23:42.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AgroControlClient\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "AgroControlClient\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAUwIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:31:37.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "AgroControlClient\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\RegisterWindow.xaml",
+              "RelativeToolTip": "AgroControlClient\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T07:30:47.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "AgroControlClient\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\Services\\ApiService.cs",
+              "RelativeToolTip": "AgroControlClient\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:30:02.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "AgroControlClient\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\Models\\Models.cs",
+              "RelativeToolTip": "AgroControlClient\\Models\\Models.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAcwLoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:29:11.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "AgroControlClient\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\LoginWindow.xaml",
+              "RelativeToolTip": "AgroControlClient\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T07:23:29.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AgroControlClient\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "AgroControlClient\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAA6wLkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:23:27.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\App.xaml",
+              "RelativeDocumentMoniker": "AgroControlClient\\App.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\App.xaml",
+              "RelativeToolTip": "AgroControlClient\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T07:18:16.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AgroControlClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AgroControlClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAqwCoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:12:06.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AgroControlClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\deb29\\source\\repos\\e\\AgroControlClient\\MainWindow.xaml",
+              "RelativeToolTip": "AgroControlClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T06:44:54.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
