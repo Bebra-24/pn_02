@@ -50,3 +50,13 @@ dotnet run --project AgroControlClient/AgroControlClient.csproj
 
 # Модуль лаборатории
 dotnet run --project AgroControlLaboratory/AgroControlLaboratory.csproj
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------
+выполнил боков денис 
